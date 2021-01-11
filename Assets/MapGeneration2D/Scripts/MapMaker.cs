@@ -20,7 +20,7 @@ public class MapMaker : MonoBehaviour
     /// </summary>
     void Start()
     {
-        this.mapData = this.perlin.GenerateData(this.mapWidth, this.mapHeight);
+        this.mapData = this.cell.GenerateData(this.mapWidth, this.mapHeight);
 
         this.GenerateTiles();
     }
