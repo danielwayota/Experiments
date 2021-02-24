@@ -1,4 +1,4 @@
 public interface IInteractive
 {
-    void Interact(TopDownPlayer player);
+    void Interact(DialogPlayer player);
 }

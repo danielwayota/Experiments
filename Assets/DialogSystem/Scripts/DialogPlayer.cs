@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TopDownPlayer : MonoBehaviour
+public class DialogPlayer : MonoBehaviour
 {
     public float speed = 4f;
 
