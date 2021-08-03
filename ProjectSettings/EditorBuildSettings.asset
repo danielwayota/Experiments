@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Profiles/P_NewGame.unity
     guid: e34e6aeea5f7b81419909e6acb6289a0
+  - enabled: 1
+    path: Assets/CheckpointsAndRespawn/Case_1/Case1_Map_1.unity
+    guid: 91297b39fe7990f4f879b5c7b3853195
+  - enabled: 1
+    path: Assets/CheckpointsAndRespawn/Case_1/Case1_Map_2.unity
+    guid: e2127c2aca617ba4dba8abbe90bcf5fe
   m_configObjects: {}
