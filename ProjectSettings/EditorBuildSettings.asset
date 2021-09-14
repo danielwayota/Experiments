@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CheckpointsAndRespawn/Case_1/Case1_Map_2.unity
     guid: e2127c2aca617ba4dba8abbe90bcf5fe
+  - enabled: 1
+    path: Assets/Pausa/Pausa.unity
+    guid: f6e86c2f256f69b4ebb0780538100f51
+  - enabled: 1
+    path: Assets/Pausa/PMenu.unity
+    guid: 11865aeb9c4901a41a393abbd74aefc4
   m_configObjects: {}
